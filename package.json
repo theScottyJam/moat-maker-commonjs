@@ -1,9 +1,9 @@
 {
-  "name": "moat-maker",
+  "name": "moat-maker-commonjs",
   "version": "2.1.0",
-  "description": "Validate your runtime data with easy to pick up, TypeScript-inspired syntax.",
+  "description": "A commonjs-compatible version of Moat Maker",
   "author": "Scotty Jamison",
-  "type": "module",
+  "type": "commonjs",
   "keywords": [
     "TypeScript",
     "validate",
@@ -11,7 +11,8 @@
     "validator",
     "verify",
     "check",
-    "data"
+    "data",
+    "commonjs"
   ],
   "files": [
     "/build"
@@ -28,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/theScottyJam/moat-maker"
+    "url": "https://github.com/theScottyJam/moat-maker-commonjs"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.58.0",
